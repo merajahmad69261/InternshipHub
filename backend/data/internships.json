@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Machine Learning Intern",
+    "company": "VisionForge AI",
+    "skills_required": ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
+    "location": "Remote",
+    "stipend": "₹25,000/month",
+    "description": "Build ML pipelines for recommendation systems and analytics dashboards.",
+    "role_category": "AI/ML",
+    "interests": ["artificial intelligence", "analytics", "recommendation systems"],
+    "popularity": 0.94
+  },
+  {
+    "title": "Frontend React Intern",
+    "company": "PixelDock",
+    "skills_required": ["React", "JavaScript", "HTML", "CSS", "Tailwind"],
+    "location": "Bengaluru - Hybrid",
+    "stipend": "₹18,000/month",
+    "description": "Create responsive interfaces, dashboards, and data-rich user experiences.",
+    "role_category": "Web Development",
+    "interests": ["frontend", "design systems", "web apps"],
+    "popularity": 0.88
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "DataNest Labs",
+    "skills_required": ["Python", "SQL", "Data Analysis", "NumPy", "Pandas"],
+    "location": "Remote",
+    "stipend": "₹22,000/month",
+    "description": "Analyze student activity data and build forecasting models for career outcomes.",
+    "role_category": "Data Science",
+    "interests": ["analytics", "data visualization", "statistics"],
+    "popularity": 0.92
+  },
+  {
+    "title": "NLP Research Intern",
+    "company": "LexiMind",
+    "skills_required": ["Python", "NLP", "Machine Learning", "SpaCy"],
+    "location": "Delhi - On-site",
+    "stipend": "₹30,000/month",
+    "description": "Work on resume parsing, semantic search, and text classification tasks.",
+    "role_category": "AI/ML",
+    "interests": ["natural language processing", "research", "language models"],
+    "popularity": 0.9
+  },
+  {
+    "title": "Backend FastAPI Intern",
+    "company": "API Orbit",
+    "skills_required": ["Python", "FastAPI", "MongoDB", "Docker"],
+    "location": "Remote",
+    "stipend": "₹24,000/month",
+    "description": "Design REST APIs, manage MongoDB data flows, and ship cloud-ready services.",
+    "role_category": "Web Development",
+    "interests": ["backend", "api design", "cloud systems"],
+    "popularity": 0.87
+  },
+  {
+    "title": "Full Stack Intern",
+    "company": "LaunchLayer",
+    "skills_required": ["React", "Node.js", "MongoDB", "JavaScript", "Git"],
+    "location": "Mumbai - Hybrid",
+    "stipend": "₹20,000/month",
+    "description": "Build product features across frontend and backend for student platforms.",
+    "role_category": "Web Development",
+    "interests": ["full stack", "product engineering", "web apps"],
+    "popularity": 0.89
+  },
+  {
+    "title": "AI Product Intern",
+    "company": "AgentSpring",
+    "skills_required": ["Python", "Machine Learning", "NLP", "Docker"],
+    "location": "Remote",
+    "stipend": "₹28,000/month",
+    "description": "Prototype AI workflows, recommendation ranking, and LLM-assisted automation.",
+    "role_category": "AI/ML",
+    "interests": ["ai products", "agents", "experimentation"],
+    "popularity": 0.93
+  },
+  {
+    "title": "Business Analytics Intern",
+    "company": "MetricLoop",
+    "skills_required": ["SQL", "Excel", "Data Analysis", "Python"],
+    "location": "Pune - On-site",
+    "stipend": "₹16,000/month",
+    "description": "Support reporting, dashboarding, and insight generation for growth teams.",
+    "role_category": "Data Science",
+    "interests": ["business intelligence", "dashboards", "reporting"],
+    "popularity": 0.79
+  }
+]

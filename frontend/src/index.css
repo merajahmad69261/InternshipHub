@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Poppins:wght@500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-slate-950 text-fog font-body;
+  background-image:
+    radial-gradient(circle at top left, rgba(125, 211, 252, 0.18), transparent 30%),
+    radial-gradient(circle at top right, rgba(255, 138, 0, 0.12), transparent 25%),
+    linear-gradient(135deg, #020617 0%, #08111f 45%, #0f172a 100%);
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.glass-panel {
+  @apply border border-white/10 bg-white/5 backdrop-blur-xl shadow-glow;
+}
+
+.input-field {
+  @apply w-full rounded-2xl border border-white/10 bg-slate-900/70 px-4 py-3 text-sm text-fog placeholder:text-slate-400 focus:border-sky focus:outline-none;
+}
+
+.chip {
+  @apply rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-sky-200;
+}
